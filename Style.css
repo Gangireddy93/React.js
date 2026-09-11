@@ -1,0 +1,17 @@
+.get{
+    border:2px solid blue;
+    color:black;
+    background-color: dimgrey;
+    margin:10px;
+    padding: 10px;
+    border-radius: 45px;
+    /* display: flex; */
+      /* justify-content: flex-start; */
+      text-align: left;
+      /* background-image: url(water.jpg); */
+    
+}
+.clas{
+    image-rendering: auto;
+    
+}
