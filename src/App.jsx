@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import CreateStudent from "./components/CreateStudent";
@@ -19,3 +20,18 @@ export default function App() {
     </BrowserRouter>
   );
 }
+=======
+import { useState } from "react";
+
+import "./App.css";
+import MultiInputForm from "./Component/Usestate";
+
+function App() {
+  return (
+    <>
+      <MultiInputForm />
+    </>
+  );
+}
+export default App;
+>>>>>>> 3421fc5e562be67eab96d1c033c0b72399fdb089
